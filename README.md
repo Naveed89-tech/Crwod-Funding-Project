@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Crowd funding project full screen view](/relative/path/to/screenshot.jpg?raw=true "Crowd funding Project")
+![Crowd funding project full screen view](screenshot.png "Crowd funding Project")
 
 ### Links
 

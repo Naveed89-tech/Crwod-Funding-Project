@@ -31,12 +31,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Crowd funding project full screen view](/relative/path/to/screenshot.jpg?raw=true "Crowd funding Project")
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [(https://crowdfundingproject.netlify.app/)]
+- Live Site URL: [https://crowdfundingproject.netlify.app/]
 
 ## My process
 
